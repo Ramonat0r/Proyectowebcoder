@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.imgP {
+  display: flex;
+  flex-direction: row;
+}
+
+/*# sourceMappingURL=styles.scc.map */
